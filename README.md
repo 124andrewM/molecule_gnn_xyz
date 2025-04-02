@@ -1,2 +1,1 @@
-# Machine Learning Applications for Predicting Molecular
-Structures
+# Machine Learning Applications for Predicting Molecular Structures
