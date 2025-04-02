@@ -1,1 +1,2 @@
-# molecule_gnn_xyz
+# Machine Learning Applications for Predicting Molecular
+Structures
